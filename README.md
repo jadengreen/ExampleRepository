@@ -3,4 +3,4 @@
  
  You can also clone this repository using [Github desktop](https://github.com/katerhoades/AtomDemo).
  
-You can then upload them to your portfolio site using Github desktop.<br>
+
